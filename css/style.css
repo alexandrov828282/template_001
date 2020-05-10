@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/OpenSans/OpenSans.eot");
+  src: url("../fonts/OpenSans/OpenSans.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans.woff") format("woff"), url("../fonts/OpenSans/OpenSans.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans.svg#webfont") format("svg");
+  font-style: normal;
+  font-weight: normal;
+}
+.ff_arial-bold {
+  font-family: Arial;
+}
+.ff_OpenSans {
+  font-family: OpenSans;
+}
+.fs14 {
+  font-size: 14px;
+}
+.fs15 {
+  font-size: 15px;
+}
+.fs17 {
+  font-size: 17px;
+}
+.fw400 {
+  font-weight: 400;
+}
+.fw900 {
+  font-weight: 900;
+}
+.ls2 {
+  letter-spacing: 2px;
+}
+.text_center {
+  text-align: center;
+}
+.color_navi_activ {
+  color: #57BBBF;
+}
+body {
+  background: #fff;
+}
+.header-fix {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  justify-content: center;
+}
+.header-fix-container {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 945px;
+}
+.header-fix-container nav li {
+  display: inline;
+  padding-left: 30px;
+}
+.header-fix-container-r {
+  padding-top: 20px;
+}
