@@ -5,7 +5,7 @@
   font-style: normal;
   font-weight: normal;
 }
-.ff_arial-bold {
+.ff_arial {
   font-family: Arial;
 }
 .ff_OpenSans {
@@ -20,6 +20,9 @@
 .fs17 {
   font-size: 17px;
 }
+.fs110 {
+  font-size: 110px;
+}
 .fw400 {
   font-weight: 400;
 }
@@ -28,6 +31,9 @@
 }
 .ls2 {
   letter-spacing: 2px;
+}
+.ls10 {
+  letter-spacing: 10px;
 }
 .text_center {
   text-align: center;
@@ -81,6 +87,7 @@ body {
 .header-body-container p {
   text-align: center;
   border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0;
 }
 .btn-1 {
   display: flex;
