@@ -65,6 +65,9 @@
 .mt170 {
   margin-top: 170px;
 }
+.mt87 {
+  margin-top: 87px;
+}
 .mb0 {
   margin-bottom: 0;
 }
@@ -106,12 +109,10 @@ body {
   display: flex;
   justify-content: center;
   width: 100%;
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  background: url(img/layer-1.webp) center no-repeat;
+  background: url(/img/layer-1.webp) no-repeat;
 }
 .header-body-container {
   width: 945px;
-  border: 1px solid rgba(0, 0, 0, 0.2);
   display: flex;
   justify-content: center;
   flex-direction: column;
