@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/OpenSans/OpenSans.eot");
+  src: url("../fonts/OpenSans/OpenSans.eot?#iefix") format("embedded-opentype"), 
+  url("../fonts/OpenSans/OpenSans.woff") format("woff"), 
+  url("../fonts/OpenSans/OpenSans.woff2") format("woff2"), 
+  url("../fonts/OpenSans/OpenSans.ttf") format("truetype"), 
+  url("../fonts/OpenSans/OpenSans.svg#webfont") format("svg");
+  
+  font-style: normal;
+  font-weight: normal;
+}
+.ff_arial {
+  font-family: Arial;
+}
+.ff_OpenSans {
+  font-family: OpenSans;
+}

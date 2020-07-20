@@ -1,31 +1,5 @@
-@font-face {
-  font-family: "OpenSans";
-  src: url("../fonts/OpenSans/OpenSans.eot");
-  src: url("../fonts/OpenSans/OpenSans.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans.woff") format("woff"), url("../fonts/OpenSans/OpenSans.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans.svg#webfont") format("svg");
-  font-style: normal;
-  font-weight: normal;
-}
-.ff_arial {
-  font-family: Arial;
-}
-.ff_OpenSans {
-  font-family: OpenSans;
-}
-.fs14 {
-  font-size: 14px;
-}
-.fs15 {
-  font-size: 15px;
-}
-.fs17 {
-  font-size: 17px;
-}
-.fs42 {
-  font-size: 42px;
-}
-.fs110 {
-  font-size: 110px;
-}
+@import "font-family.css";
+@import "font-size.css";
 .fw400 {
   font-weight: 400;
 }
