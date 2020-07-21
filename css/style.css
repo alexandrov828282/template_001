@@ -3,33 +3,9 @@
 @import "font-weight.css";
 @import "letter-spacing.css";
 @import "color.css";
-.mt20 {
-  margin-top: 20px;
-}
-.mt37 {
-  margin-top: 37px;
-}
-.mt39 {
-  margin-top: 39px;
-}
-.mt54 {
-  margin-top: 54px;
-}
-.mt170 {
-  margin-top: 170px;
-}
-.mt87 {
-  margin-top: 87px;
-}
-.mb0 {
-  margin-bottom: 0;
-}
-.mb616 {
-  margin-bottom: 616px;
-}
-.lh07 {
-  line-height: 0.7;
-}
+@import "margin-top.css";
+@import "margin-bottom.css";
+@import "line-height.css";
 .width-container {
   width: 945px;
 }
