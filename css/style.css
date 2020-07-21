@@ -9,6 +9,9 @@
 .width-container {
   width: 945px;
 }
+p {
+  margin: 0;
+}
 body {
   background: #fff;
 }
@@ -37,7 +40,7 @@ body {
 .header-fix-container-l {
   display: flex;
   flex-direction: column;
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  align-items: center;
 }
 .header-body {
   display: flex;
