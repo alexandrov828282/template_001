@@ -1,13 +1,7 @@
-/* ======== letter spacing ========================================== */
-
-.ls2 {
-    letter-spacing: 2px;
+.ls-01em{
+    letter-spacing: 0.1em;
 }
 
-.ls10 {
-    letter-spacing: 10px;
-}
-
-.text_center {
-    text-align: center;
+.ls-015em{
+    letter-spacing: 0.15em;
 }

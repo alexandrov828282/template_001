@@ -10,9 +10,11 @@
   font-style: normal;
   font-weight: normal;
 }
-.ff_arial {
+
+.ff-arial {
   font-family: Arial;
 }
-.ff_OpenSans {
+
+.ff-OpenSans {
   font-family: OpenSans;
 }

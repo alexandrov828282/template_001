@@ -34,6 +34,11 @@ body {
 .header-fix-container-r {
   padding-top: 20px;
 }
+.header-fix-container-l {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
 .header-body {
   display: flex;
   justify-content: center;
