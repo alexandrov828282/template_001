@@ -2,15 +2,7 @@
 @import "font-size.css";
 @import "font-weight.css";
 @import "letter-spacing.css";
-.color_navi_activ {
-  color: #57BBBF;
-}
-.btn-bg-col {
-  background-color: #000;
-}
-.btn-txt-col {
-  color: #fff;
-}
+@import "color.css";
 .mt20 {
   margin-top: 20px;
 }
