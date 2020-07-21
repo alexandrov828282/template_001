@@ -1,20 +1,7 @@
 @import "font-family.css";
 @import "font-size.css";
-.fw400 {
-  font-weight: 400;
-}
-.fw900 {
-  font-weight: 900;
-}
-.ls2 {
-  letter-spacing: 2px;
-}
-.ls10 {
-  letter-spacing: 10px;
-}
-.text_center {
-  text-align: center;
-}
+@import "font-weight.css";
+@import "letter-spacing.css";
 .color_navi_activ {
   color: #57BBBF;
 }
