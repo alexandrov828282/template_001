@@ -1,5 +1,13 @@
+.lh-0{
+    line-height: 0;
+}
+
 .mt-10px{
     margin-top: 10px;
+}
+
+.mt-18px{
+    margin-top: 18px;
 }
 
 .mt-19px{
@@ -10,12 +18,24 @@
     margin-top: 24px;
 }
 
+.mt-38px{
+    margin-top: 38px;
+}
+
 .mt-27px{
     margin-top: 27px;
 }
 
 .mt-45px{
     margin-top: 45px;
+}
+
+.mt-76px{
+    margin-top: 76px;
+}
+
+.mt-87px{
+    margin-top: 87px;
 }
 
 .mt-170px{
